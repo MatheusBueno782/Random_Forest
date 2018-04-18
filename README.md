@@ -10,7 +10,7 @@
 
 
 
-from sklearn.datasets import make_blobs
+In [ ]: from sklearn.datasets import make_blobs
 x_blobs,y_blobs = make_blobs(n_samples=2000,n_features=2,centers=4,random_state=0)
 
 
